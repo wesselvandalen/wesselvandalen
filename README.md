@@ -32,13 +32,23 @@ A showcase of all my knowledge of programming languages and frameworks / librari
 ## Projects
 
 ### Elektriker.no
-- **Description:** Brief description of the project.
+<img src="elektriker.no.png" alt="Elektriker.no logo"> 
+
+- **Description:** Elektriker.no (*Elektriker is Norwegian for electrician) is a platform connecting Norwegians with skilled electricians for various electrical tasks, from fixing power outlets to installing lighting systems. 
+    It simplifies the process of finding reliable help for electrical needs.
 - **Link:** [Elektriker.no site](https://wesselvandalen.github.io/elektriker.no/)
-- **Technologies:** List of technologies used.
+- **Technologies:** Java, Spring, HTML, CSS. JavaScript, Lit, Vite, Routing
 
-## Fun Fact
+### KPN Travel Movements
+<img src="KPN.png" alt="KPN Travel Movements logo">
 
-something interesting
+- **Description:** KPN Travel Movements is an application for KPN, the leading telemarketing company in the Netherlands, to be able to register it's employees co2 emissions to the Dutch government due to the law CO₂-reductie werkgebonden personenmobiliteit.
+- **Link:** [KPN Travel Movements site](https://hu-sd-sv2fe-studenten-2324.github.io/v2fe-eindopdracht-v2d_peer/)
+- **Technologies:** Vite, Lit, HTML, CSS, JavaScript, Routing, RxJs
+
+## Fun Fact about me
+
+I'm fluent in 3 languages: Dutch, English and Norwegian (both bokmål and nynorsk).
 
 <!--
 **wesselvandalen/wesselvandalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
