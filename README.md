@@ -1,4 +1,28 @@
-### Hi there 👋
+# Wessel van Dalen's README
+
+## :man_technologist:	 About Me
+
+My name is Wessel and I'm a Full Stack Developer born in the Netherlands.
+
+## Skills
+
+Not done yet
+
+## Education
+
+- **Degree:** HBO ICT
+- **University:** Hogeschool Utrecht
+- **Year:** 2022 - 2026
+
+## Contact Me
+
+- **Email:** wesselvandalen@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/wesselvandalen/)
+- **Portfolio:** [My own portfolio](https://wesselvandalen.github.io/)
+
+## Fun Fact
+
+something interesting
 
 <!--
 **wesselvandalen/wesselvandalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
