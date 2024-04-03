@@ -1,8 +1,8 @@
-# Wessel van Dalen's README
-
 ## :man_technologist:	 About Me
 
-My name is Wessel and I'm a Full Stack Developer born in the Netherlands.
+# Wessel van Dalen
+## Scrum Master & Full Stack Developer:rocket:	
+I am a 20 year old guy born in the Netherlands. My hobbies are bodybuilding, learning Norwegian (language & culture) and going on adventure with my dog (Rowdy, Golden Retriever)!
 
 ## Skills
 
