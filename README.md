@@ -28,6 +28,7 @@ A showcase of all my knowledge of programming languages and frameworks / librari
 - **Email:** wesselvandalen@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/wesselvandalen/)
 - **Portfolio:** [My own portfolio](https://wesselvandalen.github.io/)
+- **Stack Overflow:** [Stack Overflow profile](https://stackoverflow.com/users/24017710/kaffe)
 
 ## Projects
 
