@@ -1,7 +1,7 @@
 
 Hei hei! My name is **Wessel van Dalen**. <br>
 I am a 20 year old full stack software developer with a Norwegian touch! <br>
-Take a look at [my portfolio](https://wesselvandalen.github.io/) to get a better idea of me!
+Take a look at <a href="https://wesselvandalen.github.io/" target="_blank">my portfolio</a> to get a better idea of me!
 
 ## Education
 
@@ -12,9 +12,9 @@ Take a look at [my portfolio](https://wesselvandalen.github.io/) to get a better
 ## Contact Me
 
 - **Email:** wesselvandalen@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/wesselvandalen/)
-- **Portfolio:** [My own portfolio](https://wesselvandalen.github.io/)
-- **Stack Overflow:** [Stack Overflow profile](https://stackoverflow.com/users/24017710/kaffe)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/wesselvandalen/" target="_blank">LinkedIn Profile</a>
+- **Portfolio:** <a href="https://wesselvandalen.github.io/" target="_blank">My own portfolio</a>
+- **Stack Overflow:** <a href="https://stackoverflow.com/users/24017710/kaffe" target="_blank">Stack Overflow profile</a>
 
 <!--
 **wesselvandalen/wesselvandalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
