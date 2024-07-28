@@ -15,6 +15,7 @@ Take a look at <a href="https://wesselvandalen.github.io/" target="_blank">my po
 - **LinkedIn:** <a href="https://www.linkedin.com/in/wesselvandalen/" target="_blank">LinkedIn Profile</a>
 - **Portfolio:** <a href="https://wesselvandalen.github.io/" target="_blank">My own portfolio</a>
 - **Stack Overflow:** <a href="https://stackoverflow.com/users/24017710/kaffe" target="_blank">Stack Overflow profile</a>
+- **Discord:** <a href="https://www.discordapp.com/users/bjarndal" target="_blank">bjarndal</a>
 
 <!--
 **wesselvandalen/wesselvandalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
