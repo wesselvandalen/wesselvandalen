@@ -1,5 +1,3 @@
-<img src="./github_banner.png" alt="Banner" style="border-radius: 25px; margin-bottom: 10px;">
-
 Take a look at <a href="https://wesselvandalen.github.io/" target="_blank" style="color: #4de7ff, text-decoration: none;">my portfolio</a> to get a better idea of me!
 
 - 🔭 I’m currently studying Software Development IT at the Hogeschool Utrecht.
