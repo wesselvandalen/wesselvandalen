@@ -1,6 +1,6 @@
-## Heisann 👋
+## Heisann 👋🏻
 
-My name is Wessel, and I'm a Full Stack Software Developer that lives in the Netherlands.
+My name is Wessel, and I'm a Full Stack Software Developer.
 
 * You're more than welcome to read everything here, but the best experience is at [wesseldalen.eu](https://wesseldalen.eu).
 
